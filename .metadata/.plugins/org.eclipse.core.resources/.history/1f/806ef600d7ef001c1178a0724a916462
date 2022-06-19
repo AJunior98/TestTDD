@@ -1,5 +1,0 @@
-package com.ajunior.tdd.controllers.exceptions;
-
-public class StandardError {
-
-}
