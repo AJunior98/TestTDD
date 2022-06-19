@@ -1,0 +1,15 @@
+package com.ajunior.tdd.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.ajunior.tdd.dto.CityDTO;
+
+@Service
+public class CityService {
+	
+	public List<CityDTO> findAll(){
+		
+	}
+}
