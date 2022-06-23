@@ -43,3 +43,6 @@ Imagem de todos os testes em funcionamento após o desenvolvimento da aplicaçã
 
 ![image](https://user-images.githubusercontent.com/100853329/174488072-b350e009-e5b1-4a9e-9879-e58d5167aba8.png)
 
+## Postman
+Abaixo a collection utilizada no Postman caso deseje testar as funcionalidades:
+https://www.getpostman.com/collections/3a75656519d6c865d5ca
